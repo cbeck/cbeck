@@ -6,27 +6,30 @@
  <img alt="YOUR-ALT-TEXT" src="https://github.com/user-attachments/assets/bdf5a2b4-fd3f-4401-97c8-2d4728d9c7eb">
 </picture>
 
+Hi, I'm Chris, but at some companies I go by "Beck," because there are apparently a lot of Chris's in the world 🙃
+
+Sorry in advance that there aren't a lot of public repos with super-cool interesting projects here. I've had the opportunity to build a lot of great things, but alas, most of those are hidden behind corporate repos and orgs. Not everyone believes in open-sourcing everything, I'm afraid.
+
+There are a fair number of student repos from my days as a Full Stack mentor with Bloc. I will be adding more now that my wife and I are building a new project; I'll open-source some of the cool integrations I build when they are ready.
+
+In the mean-time, if you're seeing this, it's likely that I am either trying to work with your org, or I already do. In either case, let's build some cool stuff together, shall we?
+
+Now, here's the obligatory list that GitHub suggests as a starter for this particular README. Thanks for dropping by!
+
 - 🔭 I’m currently working on a Therapy industry platform with my wife, Carrie
 - 🌱 I’m currently learning Digital Content Marketing
 - 👯 I’m looking to collaborate with your org in a leadership capacity 😄
 - 💬 Ask me about my book that I'm writing on building positive engineering cultures
-- 📫 How to reach me: [chris@beckwebtech.com](mailto:chris@beckwebtech.com)
+- 📫 How to reach me: [chris@beckwebtech.com](mailto:chris@beckwebtech.com) or visit me on [LinkedIn](https://www.linkedin.com/in/beckchristopher/)
 - ⚡ Fun fact: I learned to program by reading the book on BASIC programming that came with my first computer and trying out all of the commands.
 
+And finally, here are some notes on the contributions dashboard below:
+- August 2023 to present: The first time I didn't have my dev environment set up at any org was with FanDuel. What a shame. Looking forward to coding a lot more now.
+- April 2022 to November 2022: Was in a bigger leadership role at Evidation, so I didn't have the time to code as often as I had before.
+- June 2020 to April 2022: At Evidation, coding as a Rails Dev or manager of the Data Integration team.
+- From like October 2016 to June 2020, all of the orgs I coded for no longer exist, so I guess that those commits just vanished? So sad. Maybe I have them on a drive in my basement...
+- Fairly normal Github life before then.
 
-<!--
-**cbeck/cbeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hope that helps you make sense of what you're seeing. Not that I needed to provide answers and all, but it was helpful for me, anyway. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-![me-and-the-troops](https://github.com/user-attachments/assets/bdf5a2b4-fd3f-4401-97c8-2d4728d9c7eb)
--->
+Have a great day! ☀️
