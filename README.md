@@ -19,15 +19,14 @@ In the mean-time, if you're seeing this, it's likely that I am either trying to 
 Now, here's the obligatory list that GitHub suggests as a starter for this particular README. Thanks for dropping by!
 
 - 🔭 I’m currently working on a Therapy industry platform with my wife, Carrie
-- 🌱 I’m currently learning Digital Content Marketing
-- 👯 I’m looking to collaborate with your org in a leadership capacity 😄
-- 💬 Ask me about my book that I'm writing on building positive engineering cultures
+- 👯 I work full time as a CTO leveraging and promoting agentic AI workflows in my org 🤖
 - 📫 How to reach me: [chris@beckwebtech.com](mailto:chris@beckwebtech.com) or visit me on [LinkedIn](https://www.linkedin.com/in/beckchristopher/)
-- ⚡ Fun fact: I learned to program by reading the book on BASIC programming that came with my first computer and trying out all of the commands.
+- ⚡ Fun fact: I learned to program by reading the book on BASIC programming that came with my Commodore 64 computer and trying out all of the commands.
 
 ### Contributions and the art of the vanishing commits...
 And finally, here are some notes on the contributions dashboard below:
-- August 2023 to present: The first time I didn't have my dev environment set up at any org was with FanDuel. What a shame. Looking forward to coding a lot more now.
+- January 2025 to present: back in the groove, and contributing on my own projects as well as picking up the challenging work that needs finishing at Centered Care.
+- August 2023 to January 2025: The first time I didn't have my dev environment set up at any org was with FanDuel. What a shame. 
 - April 2022 to November 2022: Was in a bigger leadership role at Evidation, so I didn't have the time to code as often as I had before.
 - June 2020 to April 2022: At Evidation, coding as a Rails Dev or manager of the Data Integration team.
 - From like October 2016 to June 2020, all of the orgs I coded for no longer exist, so I guess that those commits just vanished? So sad. Maybe I have them on a drive in my basement...
